@@ -1,4 +1,4 @@
-### :crystal_ball::computer: **GGONZA / WALERIS**
+### **GGONZA / WALERIS** :crystal_ball::computer:
 
 ***
 
