@@ -1,16 +1,22 @@
-## Hi there 👋
+### :crystal_ball::computer: **GGONZA / WALERIS**
 
-<!--
-**g-gonza/g-gonza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+◽ SOFTWARE ENGINEER
+
+◽ GAME DEVELOPER
+
+◽ VISUAL DESIGNER
+
+***
+
+> :wrench: **CURRENT PROJECTS**<br>
+
+> **Wasteland Waystations**, a multiplayer post-apocalyptic economy simulator
+where players play as a supply runner; manufacturing goods and supplies
+to sell to the many vendors and fixers of *The Great Desert*.
+>
+> :point_down: *Progress can be followed here*:
+> 
+> :fuelpump:[PLAY WASTELAND WAYSTATIONS](https://www.roblox.com/games/15648676996/ResourceGame)☠️
